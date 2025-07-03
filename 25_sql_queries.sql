@@ -1,4 +1,4 @@
--- 25 SQL Analysis Queries on NYC Yellow Taxi Data
+-
 
 -- 1. Basic record count
 SELECT COUNT(*) FROM yellow_tripdata;
